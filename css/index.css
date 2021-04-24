@@ -82,3 +82,6 @@ span.award{
 .person-info p {
 	margin-bottom: 24px;
 }
+.pull-right{
+	float: right;
+}
