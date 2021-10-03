@@ -7,9 +7,11 @@
 }
 
 .person {
-	width: 90%;
+	width: 100%;
     margin: 0 auto;
 }
+
+
 
 
 .common {
@@ -123,14 +125,19 @@ p ,li{
     color: black !important;
 }
 .container-page {
-	padding: 10px 260px
+	padding: 10px 12%
 }
 .person-img {
-	width: 100%;
+	width: 75%;
+	height: 75%;
+	/* display: block; */
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
 }
 .person-info {
-	padding-left: 12px;
-    padding-right: 12px;
+	/* padding-left: 1px;
+    padding-right: 1px; */
     margin-top: 20px;
     /* color: white; */
 }
