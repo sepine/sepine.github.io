@@ -1,5 +1,5 @@
 .page {
-    margin-top:20px;
+    margin-top:10px;
 	margin-bottom:10px;
 	height: 700px;
 	overflow: hidden;
@@ -10,8 +10,6 @@
 	width: 100%;
     margin: 0 auto;
 }
-
-
 
 
 .common {
@@ -77,11 +75,6 @@ span.award{
 }
 
 
- /* now */
-/* body,html{
-	scroll-behavior: smooth;
-  } */
-  /* cyrillic-ext */
 @font-face {
 	font-family: 'EB Garamond';
 	font-style: normal;
@@ -138,7 +131,7 @@ p ,li{
 .person-info {
 	/* padding-left: 1px;
     padding-right: 1px; */
-    margin-top: 20px;
+    margin-top: 10px;
     /* color: white; */
 }
 .changestyle{color:red;font-weight:600;}
