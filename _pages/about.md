@@ -115,7 +115,7 @@ Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://ww
 - USENIX Security 2024, [Artifact Evaluation](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts)
 - ACM CCS 2023, [Artifact Evaluation](https://www.sigsac.org/ccs/CCS2023/call-for-artifacts.html)
 
-### Reviewer
+### Journal/Conference Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 - The 19th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)
