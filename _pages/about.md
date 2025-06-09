@@ -61,7 +61,7 @@ Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://ww
 
 - <p> <div class="badge">IST 2023</div> Detecting Multi-Type Self-Admitted Technical Debt with Generative Adversarial Network-based Neural Networks <a href="https://www.sciencedirect.com/science/article/pii/S0950584923000447">[Paper]</a> <br> J. Yu, X. Zhou, X. Liu, J. Liu, Z. Xie, and <strong><u>K. Zhao</u></strong> <br> Information and Software Technology, 2023. </p>
 
-- <p> <div class="badge">JSS 2023</div> Graph4Web: A Relation-Aware Graph Attention Network for Web Service Classification <a href="https://www.sciencedirect.com/science/article/pii/S0164121222000681">[Paper]</a> <br>  <strong><u>K. Zhao</u></strong>, J. Liu, Z. Xu, X. Liu, L. Xue, Z. Xie, Y. Zhou, and X. Wang <br> Journal of Systems and Software, 2023. <br> Invited to SANER'2023 as part of the Journal First Track. </p>
+- <p> <div class="badge">JSS 2022</div> Graph4Web: A Relation-Aware Graph Attention Network for Web Service Classification <a href="https://www.sciencedirect.com/science/article/pii/S0164121222000681">[Paper]</a> <br>  <strong><u>K. Zhao</u></strong>, J. Liu, Z. Xu, X. Liu, L. Xue, Z. Xie, Y. Zhou, and X. Wang <br> Journal of Systems and Software, 2022. <br> Invited to SANER'2023 as part of the Journal First Track. </p>
 
 - <p> <div class="badge">JSS 2022</div> Exploiting Gated Graph Neural Network for Detecting and Explaining Self-Admitted Technical Debts <a href="https://www.sciencedirect.com/science/article/pii/S0164121222000036">[Paper]</a> <br> J. Yu, <strong><u>K. Zhao</u></strong>, J. Liu, X. Liu, Z. Xu, and X. Wang <br> Journal of Systems and Software, 2022. </p>
 
