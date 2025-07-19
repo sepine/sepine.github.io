@@ -108,8 +108,9 @@ Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://ww
 
 # 🌴 Services
 
-### Technical/Artifact Committee Member
+### Program Committee Member
 
+- NDSS 2026, [Artifact Evaluation](https://www.ndss-symposium.org/ndss2026/submissions/call-for-artifacts/)
 - APSEC 2025, [Technical Track](https://conf.researchr.org/committee/apsec-2025/apsec-2025-papers-program-committee)
 - ACM CCS 2025, [Artifact Evaluation](https://www.sigsac.org/ccs/CCS2025/call-for-artifacts/)
 - USENIX Security 2024, [Artifact Evaluation](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts)
