@@ -47,9 +47,9 @@ Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://ww
 </div>
 </div> -->
 
-- <p> <div class="badge">USENIX SEC 2025</div> Automated Soundness and Completeness Vetting of Polygon zkEVM <a href="">[Paper]</a> <br> X. Peng, Z. Sun, <strong><u>K. Zhao</u></strong>, Z. Ma, Z. Li, J. Jiang, X. Luo, and Y. Zhang <br> Proceedings of the 34th USENIX Security Symposium, 2025. </p>
+- <p> <div class="badge">USENIX SEC 2025</div> Automated Soundness and Completeness Vetting of Polygon zkEVM <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/peng-xinghao">[Paper]</a> <br> X. Peng, Z. Sun, <strong><u>K. Zhao</u></strong>, Z. Ma, Z. Li, J. Jiang, X. Luo, and Y. Zhang <br> Proceedings of the 34th USENIX Security Symposium, 2025. </p>
 
-- <p> <div class="badge">FSE 2025</div> Recasting Type Hints from WebAssembly Contracts <a href="">[Paper]</a> <br> <strong><u>K. Zhao</u></strong>, Z. Li, W. Chen, X. Luo, T. Chen, G. Meng, and Y. Zhou <br> Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering, 2025. </p>
+- <p> <div class="badge">FSE 2025</div> Recasting Type Hints from WebAssembly Contracts <a href="https://dl.acm.org/doi/abs/10.1145/3729388">[Paper]</a> <br> <strong><u>K. Zhao</u></strong>, Z. Li, W. Chen, X. Luo, T. Chen, G. Meng, and Y. Zhou <br> Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering, 2025. </p>
 
 - <p> <div class="badge">ICSE 2024</div> VGX: Large-Scale Sample Generation for Boosting Learning-Based Software Vulnerability Analyses <a href="https://dl.acm.org/doi/abs/10.1145/3597503.3639116">[Paper]</a> <br> Y. Nong, R. Fang, G. Yi, <strong><u>K. Zhao</u></strong>, X. Luo, F. Chen, and H. Cai <br> Proceedings of the 46th IEEE/ACM International Conference on Software Engineering, 2024. </p>
 
