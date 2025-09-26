@@ -47,8 +47,7 @@ Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://ww
 </div>
 </div> -->
 
-- <p> <div class="badge">ASE 2025</div> Soleker: Uncovering Vulnerabilities in
-Solana Smart Contracts <a href="">[Paper]</a> <br> <strong><u>K. Zhao</u></strong>, Y. Tian, Z. Ma, and X. Luo <br> Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. </p>
+- <p> <div class="badge">ASE 2025</div> Soleker: Uncovering Vulnerabilities in Solana Smart Contracts <a href="">[Paper]</a> <br> <strong><u>K. Zhao</u></strong>, Y. Tian, Z. Ma, and X. Luo <br> Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. </p>
 
 - <p> <div class="badge">USENIX SEC 2025</div> Automated Soundness and Completeness Vetting of Polygon zkEVM <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/peng-xinghao">[Paper]</a> <br> X. Peng, Z. Sun, <strong><u>K. Zhao</u></strong>, Z. Ma, Z. Li, J. Jiang, X. Luo, and Y. Zhang <br> Proceedings of the 34th USENIX Security Symposium, 2025. </p>
 
@@ -80,9 +79,9 @@ Solana Smart Contracts <a href="">[Paper]</a> <br> <strong><u>K. Zhao</u></stron
 
 - <p> <div class="badge">IST 2021</div> A Comprehensive Investigation of the Impact of Feature Selection Techniques on Crashing Fault Residence Prediction Models <a href="https://www.sciencedirect.com/science/article/pii/S0950584921001154">[Paper]</a> <br> <strong><u>K. Zhao</u></strong>, Z. Xu, M. Yan, T. Zhang, D. Yang, and W. Li <br> Information and Software Technology, 2021. </p>
 
-- <p> <div class="badge">TR 2021</div> Effort-Aware Just-in-Time Bug Prediction for Mobile Apps via Cross-triplet Deep Feature Embedding <a href="https://ieeexplore.ieee.org/abstract/document/9400509">[Paper]</a> <br> Z. Xu, <strong><u>K. Zhao</u></strong>, T. Zhang, C. Fu, M. Yan, Z. Xie, X. Zhang, and G. Catolino <br> IEEE Transactions on Reliability, 2021. </p>
+- <p> <div class="badge">TRel 2021</div> Effort-Aware Just-in-Time Bug Prediction for Mobile Apps via Cross-triplet Deep Feature Embedding <a href="https://ieeexplore.ieee.org/abstract/document/9400509">[Paper]</a> <br> Z. Xu, <strong><u>K. Zhao</u></strong>, T. Zhang, C. Fu, M. Yan, Z. Xie, X. Zhang, and G. Catolino <br> IEEE Transactions on Reliability, 2021. </p>
 
-- <p> <div class="badge">TR 2021</div> Simplified Deep Forest Model based Just-In-Time Defect Prediction for Android Mobile Apps <a href="https://ieeexplore.ieee.org/abstract/document/9380555">[Paper]</a> <br> <strong><u>K. Zhao</u></strong>, Z. Xu, T. Zhang, Y. Tang, and M. Yan <br> IEEE Transactions on Reliability, 2021. </p>
+- <p> <div class="badge">TRel 2021</div> Simplified Deep Forest Model based Just-In-Time Defect Prediction for Android Mobile Apps <a href="https://ieeexplore.ieee.org/abstract/document/9380555">[Paper]</a> <br> <strong><u>K. Zhao</u></strong>, Z. Xu, T. Zhang, Y. Tang, and M. Yan <br> IEEE Transactions on Reliability, 2021. </p>
 
 - <p> <div class="badge">JSS 2020</div> Imbalanced metric learning for crashing fault residence prediction <a href="https://www.sciencedirect.com/science/article/pii/S0164121220301837">[Paper]</a> <br> Z. Xu<sup>#</sup>, <strong><u>K. Zhao</u></strong><sup>#</sup> (equal contribution), M. Yan, P. Yuan, L. Xu, Y. Lei, and X. Zhang <br> Journal of Systems and Software (JSS), 2020. <br> Invited to ICPC'2021 as part of the Journal First Track. </p>
 
@@ -125,7 +124,7 @@ Solana Smart Contracts <a href="">[Paper]</a> <br> <strong><u>K. Zhao</u></stron
 - The 19th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Multimedia (TMM)
-- IEEE Transactions on Reliability (TR)
+- IEEE Transactions on Reliability (TRel)
 - Software: Practice and Experience (SPE)
 
 <!-- # 💬 Invited Talks
