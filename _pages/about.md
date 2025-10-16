@@ -99,6 +99,7 @@ Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://ww
 
 # 🎖 Selected Awards
 
+- *2025* Distinguished Artifact Reviewers Award, The 32nd ACM Conference on Computer and Communications Security (CCS).
 - *2024* Polkadot Blockchain Academy, Polkadot Foundation.
 - *2023* Outstanding Scientific Paper of Hubei Province, Hubei Association for Science & Technology.
 - *2023* Ethereum Foundation Academic Grant, Ethereum Foundation on Blockchain Security Research.
