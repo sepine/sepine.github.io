@@ -113,7 +113,7 @@ Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://ww
 
 ### Program Committee Member
 
-- MSR 2026, [Technical Track: Junior PC](https://2026.msrconf.org/committee/msr-2026-junior-pc-technical-papers---junior-program-committee)
+- MSR 2026, [Technical Papers](https://2026.msrconf.org/committee/msr-2026-junior-pc-technical-papers---junior-program-committee)
 - NDSS 2026, [Artifact Evaluation](https://www.ndss-symposium.org/ndss2026/submissions/call-for-artifacts/)
 - APSEC 2025, [Technical Track](https://conf.researchr.org/committee/apsec-2025/apsec-2025-papers-program-committee)
 - ACM CCS 2025, [Artifact Evaluation](https://www.sigsac.org/ccs/CCS2025/artifact-evaluation-committee/)
