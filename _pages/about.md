@@ -99,14 +99,14 @@ Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://ww
 
 # 🎖 Selected Awards
 
-- *2025* Distinguished Artifact Reviewers Award, The 32nd ACM Conference on Computer and Communications Security (CCS).
-- *2024* Polkadot Blockchain Academy, Polkadot Foundation.
-- *2023* Outstanding Scientific Paper of Hubei Province, Hubei Association for Science & Technology.
-- *2023* Ethereum Foundation Academic Grant, Ethereum Foundation on Blockchain Security Research.
-- *2021* First Prize, Global MAX Performance Cloud Computing Innovation Competition (MAXP).
-- *2021* Huawei Scholarship.
-- *2020* First Prize, China Conference on Knowledge Graph and Semantic Computing (CCKS).
-- *2018* Meritorious Winner, Mathematical Contest In Modeling / Interdisciplinary Contest In Modeling.
+- *2025*, [Distinguished Artifact Reviewers Award](https://www.sigsac.org/ccs/CCS2025/awards), The 32nd ACM Conference on Computer and Communications Security (CCS).
+- *2024*, Polkadot Blockchain Academy, Polkadot Foundation.
+- *2023*, Outstanding Scientific Paper of Hubei Province, Hubei Association for Science & Technology.
+- *2023*, Academic Grant for Blockchain Security Research, Ethereum Foundation.
+- *2021*, First Prize, Global MAX Performance Cloud Computing Innovation Competition (MAXP).
+- *2021*, Huawei Scholarship.
+- *2020*, First Prize, China Conference on Knowledge Graph and Semantic Computing (CCKS).
+- *2018*, Meritorious Winner, Mathematical Contest In Modeling / Interdisciplinary Contest In Modeling.
 
 
 # 🌴 Services
