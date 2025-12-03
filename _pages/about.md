@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://www.polyu.edu.hk/comp/" target="_blank">Department of Computing</a>, <a href="https://www.polyu.edu.hk/" target="_blank">The Hong Kong Polytechnic University (PolyU)</a>, under the supervision of <a href="https://www4.comp.polyu.edu.hk/~csxluo/" target="_blank">Prof. Daniel Xiapu Luo</a> and co-supervision of <a href="https://cslxue.github.io/" target="_blank">Prof. Lei Xue</a>. Before that, he received his Master and Bachelor degrees in Software Engineering from Wuhan University in 2022 and Hubei University in 2019, respectively. His research interests lie in designing security systems and improving software quality with the help of static and dynamic program analysis, formal verification, and deep learning techniques. Currently, he mainly focuses on binary analysis, blockchain and smart contract security, and decentralized applications.
+Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://www.polyu.edu.hk/comp/" target="_blank">Department of Computing</a>, <a href="https://www.polyu.edu.hk/" target="_blank">The Hong Kong Polytechnic University (PolyU)</a>, under the supervision of <a href="https://www4.comp.polyu.edu.hk/~csxluo/" target="_blank">Prof. Daniel Xiapu Luo</a>. Before that, he received his Master and Bachelor degrees in Software Engineering from Wuhan University in 2022 and Hubei University in 2019, respectively. His research centers on software security, leveraging static and dynamic program analysis, formal verification, and emerging AI techniques to build more secure and dependable software systems. Currently, he primarily focuses on binary analysis, blockchain and smart contract security, and decentralized applications.
 
-📜 [Curriculum Vitae](others/Jeffrey_Kunsong_Zhao_CV.pdf)
+📜 [Curriculum Vitae](others/CV_Kunsong_Zhao.pdf)
 
 
 <!-- # 🔥 News
