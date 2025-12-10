@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://www.polyu.edu.hk/comp/" target="_blank">Department of Computing</a>, <a href="https://www.polyu.edu.hk/" target="_blank">The Hong Kong Polytechnic University (PolyU)</a>, under the supervision of <a href="https://www4.comp.polyu.edu.hk/~csxluo/" target="_blank">Prof. Daniel Xiapu Luo</a>. Before that, he received his Master and Bachelor degrees in Software Engineering from Wuhan University in 2022 and Hubei University in 2019, respectively. His research centers on software security, leveraging static and dynamic program analysis, formal verification, and emerging AI techniques to build more secure and dependable software systems. Currently, he primarily focuses on binary analysis, blockchain and smart contract security, and decentralized applications.
+Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://www.polyu.edu.hk/comp/" target="_blank">Department of Computing</a>, <a href="https://www.polyu.edu.hk/" target="_blank">The Hong Kong Polytechnic University (PolyU)</a>, under the supervision of <a href="https://www4.comp.polyu.edu.hk/~csxluo/" target="_blank">Prof. Daniel Xiapu Luo</a>. Before that, he received his Master and Bachelor degrees in Software Engineering from Wuhan University in 2022 and Hubei University in 2019, respectively. His research centers around software security, leveraging static and dynamic program analysis, formal verification, and emerging AI techniques to build more secure and dependable software systems. Currently, he primarily focuses on binary analysis, blockchain and smart contract security, and decentralized applications.
 
 📜 [Curriculum Vitae](others/CV_Kunsong_Zhao.pdf)
 
@@ -113,6 +113,7 @@ Kunsong is currently a Ph.D candidate in Computer Science at <a href="https://ww
 
 ### Program Committee Member
 
+- USENIX Security 2026, [Artifact Evaluation](https://www.usenix.org/conference/usenixsecurity26/call-for-artifacts)
 - MSR 2026, [Technical Papers](https://2026.msrconf.org/committee/msr-2026-junior-pc-technical-papers---junior-program-committee)
 - NDSS 2026, [Artifact Evaluation](https://www.ndss-symposium.org/ndss2026/submissions/call-for-artifacts/)
 - APSEC 2025, [Technical Track](https://conf.researchr.org/committee/apsec-2025/apsec-2025-papers-program-committee)
